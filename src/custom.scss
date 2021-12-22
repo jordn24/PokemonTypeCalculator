@@ -1,0 +1,15 @@
+// Overwrite variables
+$border-widths: (
+  1: 1px,
+  2: 2px,
+  3: 3px,
+  4: 4px,
+  5: 5px,
+  8: 12px,
+);
+
+$red: #ef3038;
+$gray-100: #f8f9fa;
+
+// Import bootstrap
+@import "~bootstrap/scss/bootstrap.scss";
