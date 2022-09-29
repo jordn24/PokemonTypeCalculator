@@ -16,6 +16,6 @@ A Pokemon Type Calculator that shows the strengths/weaknesses of different type 
 npm start
 ```
 ## Screenshots
-[Alt text](https://github.com/jordn24/PokemonTypeCalculator/blob/50f579a7c11069f34327d0cba78b284bec8a7d02/Screenshot1.png)
+[Alt text](Screenshot1.png)
 
-[Alt text](https://github.com/jordn24/PokemonTypeCalculator/blob/50f579a7c11069f34327d0cba78b284bec8a7d02/Screenshot2.png)
+[Alt text](Screenshot2.png)
